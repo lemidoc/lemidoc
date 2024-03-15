@@ -12,6 +12,12 @@
 - **Database:** Basics of SQL
 - **Tools & Technologies:** Git, IntelliJ IDEA, VS code
 
+## Projects
+
+- **Basketball Score Tracker** is a simple application designed to help users manage and track basketball games. 📊
+
+  ➡️ https://github.com/lemidoc/basketball-score-tracker 
+
 ## Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/milorad-%C5%BEalac-b02b942a9/
