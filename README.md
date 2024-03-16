@@ -3,8 +3,8 @@
 ## About Me
 
 - 🎓 Currently a 3rd-year Software Engineering student.
-- 💻 Passionate about coding, particularly in Java.
-- 🏀 Basketball enthusiast and player in my free time.
+- 💻 Passionate about coding, especially in Java.
+- 🏀 Enjoy hitting the basketball court in my free time.
 
 ## Skills
 
