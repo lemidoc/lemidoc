@@ -9,6 +9,7 @@
 ## Skills
 
 - **Programming Languages:** Java, C
+- **Frameworks:** Spring, Spring Boot
 - **Database:** Basics of SQL
 - **Tools & Technologies:** Git, IntelliJ IDEA, VS code
 
