@@ -3,7 +3,6 @@
 ## About Me
 
 - 🎓 Currently a 3rd-year Software Engineering student.
-- 💻 Passionate about coding, especially in Java.
 - 🏀 Enjoy hitting the basketball court in my free time.
 
 ## Skills
@@ -14,6 +13,10 @@
 - **Tools & Technologies:** Git, IntelliJ IDEA, VS code
 
 ## Projects
+
+- **CRUD RESTful API**
+
+  ➡️ https://github.com/lemidoc/CRUD-Restful-API 
 
 - **Basketball Score Tracker** is a simple application designed to help users manage and track basketball games. 📊
 
