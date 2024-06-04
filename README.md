@@ -1,4 +1,4 @@
-# Hi there👋
+# Welcome
 
 ## About Me
 
@@ -9,8 +9,8 @@
 
 - **Programming Languages:** Java, C
 - **Frameworks:** Spring, Spring Boot
-- **Database:** Basics of SQL
-- **Tools & Technologies:** Git, IntelliJ IDEA, VS code
+- **Database:** Basics of SQL, mySQL
+- **Tools & Technologies:** Git, IntelliJ IDEA, VS Code
 
 ## Projects
 
@@ -20,7 +20,11 @@
 
 - **Basketball Score Tracker** is a simple application designed to help users manage and track basketball games. 📊
 
-  ➡️ https://github.com/lemidoc/basketball-score-tracker 
+  ➡️ https://github.com/lemidoc/basketball-score-tracker
+  
+- **Car Dealership Web Site**
+  
+  ➡️ https://github.com/lemidoc/auto-kuca 
 
 ## Get in Touch
 
