@@ -8,23 +8,20 @@
 ## Skills
 
 - **Programming Languages:** Java, C
-- **Frameworks:** Spring, Spring Boot
+- **Frameworks:** Spring
 - **Database:** Basics of SQL, mySQL
 - **Tools & Technologies:** Git, IntelliJ IDEA, VS Code
 
 ## Projects
 
-- **CRUD RESTful API**
+- **Basketball Scoreboard** application designed to help users manage and track basketball games. 📊🏀
 
-  ➡️ https://github.com/lemidoc/CRUD-Restful-API 
-
-- **Basketball Score Tracker** is a simple application designed to help users manage and track basketball games. 📊
-
-  ➡️ https://github.com/lemidoc/basketball-score-tracker
+  ➡️ https://github.com/lemidoc/spring-basketball-scoreboard
   
-- **Car Dealership Web Site**
+- **Car Dealership Web Site** 🚗
   
-  ➡️ https://github.com/lemidoc/auto-kuca 
+  ➡️ https://github.com/lemidoc/auto-kuca
+
 
 ## Get in Touch
 
