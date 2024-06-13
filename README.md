@@ -1,18 +1,18 @@
-# Welcome
+# Welcome 👋
 
 ## About Me
 
 - 🎓 Currently a 3rd-year Software Engineering student.
 - 🏀 Enjoy hitting the basketball court in my free time.
 
-## Skills
+## Skills 👇
 
 - **Programming Languages:** Java, C
 - **Frameworks:** Spring
 - **Database:** Basics of SQL, mySQL
 - **Tools & Technologies:** Git, IntelliJ IDEA, VS Code
 
-## Projects
+## Projects ♨️
 
 - **Basketball Scoreboard** application designed to help users manage and track basketball games. 📊🏀
 
@@ -23,7 +23,7 @@
   ➡️ https://github.com/lemidoc/auto-kuca
 
 
-## Get in Touch
+## Get in Touch 📲
 
 - LinkedIn: https://www.linkedin.com/in/milorad-%C5%BEalac-b02b942a9/
 - Email: milorad.zalac23@gmail.com 
